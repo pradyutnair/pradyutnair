@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pradyut</h1>
 <h3 align="center">A passionate Data Scientist and ML Engineer studying in Eindhoven University of Technology</h3>
 
-- 🔭 I’m currently working on **Predicting Child Wasting in Somalia**
+- 🔭 I’m currently working on **Predicting and Preventing Child Malnutrition in Somalia**
 
-- 🌱 I’m currently learning **Python, TensorFlow, SQL, Git, Docker**
+- 🌱 I’m currently mastering **Python, TensorFlow, SQL, Git, Docker**
 
 - 👯 I’m looking to collaborate on **Novel Deep Learning ALgorithms in any domain**
 
