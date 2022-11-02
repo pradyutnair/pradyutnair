@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently mastering **Python, TensorFlow, SQL, Git, Docker**
 
-- 👯 I’m looking to collaborate on **Novel Deep Learning ALgorithms in any domain**
+- 👯 I’m looking to collaborate on **Novel Deep Learning Algorithms in any domain**
 
 - 🤝 I’m looking for help with **Improving my DSA and Technical Coding knowledge**
 
