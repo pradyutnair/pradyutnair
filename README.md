@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **SQL to English Translation App powered by GPT3**
 
-- 🌱 I’m currently mastering **Python, TensorFlow, SQL, Git, Docker**
+- 🌱 I’m mastering **Python, TensorFlow, SQL, PyTorch, Docker**
 
 - 👯 I’m looking to collaborate on **Novel Deep Learning Algorithms / AI powered Software**
 
-- 🤝 I’m looking for help with **Improving my DSA and Technical Coding knowledge**
+- 🤝 I’m looking for help with **Improving my DSA and technical coding knowledge**
 
 - 📫 How to reach me **pradyutnair.work@gmail.com**
 
