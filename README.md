@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Novel Deep Learning Algorithms / AI powered Software**
 
-- 🤝 I’m looking for help with **Improving my DSA and technical coding knowledge**
-
 - 📫 How to reach me **pradyutnair.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
