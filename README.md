@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradyut</h1>
-<h3 align="center">Former Data Science Intern @ Tesla | Prospective Data Scientist and ML Engineer studying at Eindhoven University of Technology</h3>
+<h3 align="center">Data Analyst Intern @ TomTom | Former Data Science Intern @ Tesla | MSc AI at University of Amsterdam</h3>
 
 - 🔭 I’m currently working on **GPT3 powered WebApps**
 
