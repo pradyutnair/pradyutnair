@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradyut</h1>
 <h3 align="center">Data Analyst Intern @ TomTom | Former Data Science Intern @ Tesla | MSc AI at University of Amsterdam</h3>
 
-- 🔭 I’m currently working on **GPT3 powered WebApps**
-
-- 🌱 I’m mastering **Python, TensorFlow, SQL, PyTorch, Docker**
-
-- 👯 I’m looking to collaborate on **Novel Deep Learning Algorithms / AI powered Software**
-
 - 📫 How to reach me **pradyutnair.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
