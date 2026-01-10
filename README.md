@@ -29,5 +29,5 @@ I am an AI researcher and Data Scientist focused on building scalable, intellige
 
 ---
 ### Let's Connect
-* **LinkedIn:** [linkedin.com/in/pradyut-nair](https://linkedin.com/in/pradyut-nair)
-* [**Portfolio**](www.pradyutnair.site)
+* [**LinkedIn**](https://www.linkedin.com/in/pradyut-nair)
+* [**Portfolio**](https://www.pradyutnair.site)
