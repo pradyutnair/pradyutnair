@@ -1,6 +1,6 @@
 # Hi, I'm Pradyut 👋
 
-** AI Engineer Intern @ Prosus | MSc AI @ University of Amsterdam** | **Ex Data Analyst Intern @ TomTom & Tesla**
+**AI Engineer Intern @ Prosus** | **MSc AI @ University of Amsterdam** | **Ex Data Analyst Intern @ TomTom & Tesla**
 
 I am an AI researcher and Data Scientist focused on building scalable, intelligent systems.
 
